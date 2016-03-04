@@ -1,0 +1,16 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Henrique Poiani <thpoiani@gmail.com> (http://thpoiani.com.br/)",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "0.20.0",
+    "commander": "2.9.0",
+    "request": "2.69.0"
+  }
+}
